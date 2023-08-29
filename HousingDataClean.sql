@@ -1,6 +1,7 @@
 /*
 
 Data Cleaning With SQL Queries
+Commands used in this project: (Update, Alter Table, ISNULL, Join, Case, ParseName, Parition By, CTE, Row_Number)
 
 */
 
